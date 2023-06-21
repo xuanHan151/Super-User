@@ -1,0 +1,3 @@
+Where: form event
+Use: client method
+event: onload
